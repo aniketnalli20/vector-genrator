@@ -64,11 +64,6 @@ Canvas API
 
 Installation & Usage
 
-Clone the repo:
-
-git clone https://github.com/yourusername/your-repo-name.git
-
-
 Open index.html directly in a browser.
 
 No build tools or servers required.
